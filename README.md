@@ -5,7 +5,7 @@ During my Ph.D, I had the good fortune of working with many fantastic mentors du
 
 Email: chanjed AT berkeley DOT edu
 
-## Publications
+## Preprints and Publications
 
 **Jeffrey Chan**<sup>\*</sup>, Aldo Pacchiano<sup>\*</sup>, Nilesh Tripuraneni<sup>\*</sup>, Yun S. Song, Peter Bartlett, Michael I. Jordan. [Parallelizing Contextual Linear Bandits](https://arxiv.org/abs/), *In Submission*.
 
