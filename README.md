@@ -7,7 +7,7 @@ Email: chanjed AT berkeley DOT edu
 
 ## Preprints and Publications
 
-**Jeffrey Chan**<sup>\*</sup>, Aldo Pacchiano<sup>\*</sup>, Nilesh Tripuraneni<sup>\*</sup>, Yun S. Song, Peter Bartlett, Michael I. Jordan. [Parallelizing Contextual Linear Bandits](https://arxiv.org/abs/), *In Submission*.
+**Jeffrey Chan**<sup>\*</sup>, Aldo Pacchiano<sup>\*</sup>, Nilesh Tripuraneni<sup>\*</sup>, Yun S. Song, Peter Bartlett, Michael I. Jordan. [Parallelizing Contextual Linear Bandits](https://arxiv.org/abs/2105.10590), *In Submission*.
 
 **Jeffrey Chan**, Andrew C. Miller,  Emily B. Fox. [Representing and Denoising Wearable ECG Recordings](https://arxiv.org/abs/2012.00110), *NeurIPS ML for Mobile Health Workshop 2020*. **Spotlight Talk**.
 
